@@ -2,7 +2,7 @@
 
 Repositorio para guardar el contenido mostrado durante la charla de Agentes de IA en Fabric para el evento de Women For Technical Talks (WFTT), celebrado los días 7 y 8 de noviembre de 2025.
 
-![alt text](https://github.com/lmendezotero/WomenInFabric-FabricDataAgents/blob/main/Imagenes%20y%20Logos/Logo%20Women%20in%20Fabric.jpg)
+![alt text](https://github.com/lmendezotero/W4TT-DataAgents/blob/main/Imagenes/Logo%20Largo%20W4TT.png)
 
 ## Descripción del proyecto 🔊
 El objetivo principal del proyecto es poner a prueba las capacidades del artefacto de Fabric Data Agent, un nuevo componente en fase de previuw lanzado por Microsoft.
