@@ -41,3 +41,7 @@ Agradecerle a la comunidad de Women For Technical Talks la oportunidad de haber 
 Dejo enlace de la página web oficial para que estéis informandos de novedades y futuros eventos:
 
 [Women For Technical Talks](https://www.women4tt.com/).
+
+## Autores ✒️
+
+* **Lorena Méndez Otero** - [lmendezotero](https://github.com/lmendezotero) 
