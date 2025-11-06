@@ -11,7 +11,9 @@ Los datos de Maderas del Noroeste están almacenados en un sistema de almacenami
 
 Posteriormente, se ha desarrollado un informe en Microsoft Power BI facilitar el análisis financiero de la compañía, permitiendo visualizar ingresos y gastos, explorar volumetría de ventas por cliente, producto y región, así como obtener una visión global de la situación financiera del negocio mediante indicadores clave.
 
-Por último, se ha implementado un agente de datos, llamado "Financial Analyst Assistant" con el objetivo de facilitar la consulta interactiva de la información financiera, responder preguntas en lenguaje natural y apoyar la toma de decisiones mediante el acceso ágil a los datos procesados en Fabric.
+Además, se ha implementado un agente de datos, llamado "Financial Analyst Assistant" con el objetivo de facilitar la consulta interactiva de la información financiera, responder preguntas en lenguaje natural y apoyar la toma de decisiones mediante el acceso ágil a los datos procesados en Fabric.
+
+Por último, se ha conectado el Agente de Fabric a la herramienta de Copilot Studio para poder publicarlo en un chat de Microsoft Teams para que sea más amigable para el usuario explorar los datos y consumir el agente.
 
 ## Estructura de carpetas & Contenido 📋
 El material de este repositorio está dividido en 4 carpetas principales:
